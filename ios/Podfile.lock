@@ -1,0 +1,29 @@
+PODS:
+  - couchbase_lite (0.0.1):
+    - CouchbaseLite-Swift (~> 2.5.1)
+    - Flutter
+  - CouchbaseLite-Swift (2.5.3)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - couchbase_lite (from `.symlinks/plugins/couchbase_lite/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - CouchbaseLite-Swift
+
+EXTERNAL SOURCES:
+  couchbase_lite:
+    :path: ".symlinks/plugins/couchbase_lite/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  couchbase_lite: bb89ce19146f97fad810e568fd1a624ee6d9e4d9
+  CouchbaseLite-Swift: 39a36c5191768c97c3ddcf4feb3ef9ef07bd027a
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 0ba44ad07df4ab62269dc769727cf0f12b1e453d
+
+COCOAPODS: 1.8.4
